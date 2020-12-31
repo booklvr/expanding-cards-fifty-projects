@@ -41,5 +41,6 @@
       "prettier --write",
       "git add"
     ]
-  }
+  },
+  "homepage": "http://booklvr.github.io/expanding-cards-fifty-projects"
 }
