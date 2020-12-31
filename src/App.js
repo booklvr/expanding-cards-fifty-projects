@@ -1,7 +1,8 @@
 import React from 'react'
+import Container from './components/Container'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <Container></Container>
 }
 
 export default App

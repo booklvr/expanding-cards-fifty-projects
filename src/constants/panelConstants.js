@@ -1,0 +1,1 @@
+export const PANEL_IS_ACTIVE = 'PANEL_IS_ACTIVE'
